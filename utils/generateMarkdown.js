@@ -72,8 +72,7 @@ ${renderLicenseLink(license)}
   For any additonal question please reachout to ${questions} on ${email}.
   
   ## Video
-  ![video](https://app.screencastify.com/v2/manage/videos/7gVGZhlorMPLgW0fT7Kj)
-  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+  [![Watch the video](https://github.com/Atiam/Professional-README-Generator_Tiam-Arnaud/blob/main/assets/Screenshot%202024-05-03%20180136.png)](https://app.screencastify.com/v2/manage/videos/7gVGZhlorMPLgW0fT7Kj)
   `;
 
 
