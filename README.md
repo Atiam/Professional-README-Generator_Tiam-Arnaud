@@ -1,4 +1,4 @@
-# fee [![license](https://img.shields.io/badge/ISC-in_used-green.svg)](https://shields.io/)
+# dd ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
   ## Description
 
@@ -15,11 +15,11 @@
 
   ## Installation
 
-  df
+  dfd
 
   ## Usage
 
-  sdfd
+  dfd
 
  ## License
 
@@ -34,5 +34,5 @@
   dfd
 
   ## Questions
-  For any additonal question please reachout to sdfd on sdf.
+  For any additonal question please reachout to dfd on df.
   
