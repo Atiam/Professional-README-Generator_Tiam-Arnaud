@@ -46,6 +46,7 @@ function generateMarkdown({title, description, tableOfContents, installation, us
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#Questions)
+- [video](#Video)
 
 ${renderLicenseLink(license)}
 
@@ -69,7 +70,13 @@ ${renderLicenseLink(license)}
 
   ## Questions
   For any additonal question please reachout to ${questions} on ${email}.
+  
+  ## Video
+  ![video](https://app.screencastify.com/v2/manage/videos/7gVGZhlorMPLgW0fT7Kj)
+  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
   `;
+
+
 
 }
 
