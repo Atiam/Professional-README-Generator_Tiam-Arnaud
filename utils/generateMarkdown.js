@@ -33,7 +33,7 @@ function renderLicenseSection(license) {
 }
 
 // TODO: Create a function to generate markdown for README
-function generateMarkdown({title, description, tableOfContents, installation, usage, license, contributing, tests, questions, email}) {
+function generateMarkdown({title, description, installation, usage, license, contributing, tests, questions, email}) {
   return `# ${title} ${renderLicenseBadge(license)}
 
   ## Description
@@ -69,7 +69,8 @@ ${renderLicenseLink(license)}
   ${tests}
 
   ## Questions
-  For any additonal question please reachout to ${questions} on ${email}.
+  For any correction, please find the source code on ${questions} Github.
+  For any questions, please reach out to me on ${email} email.
   
   ## Video
   [![Watch the video](https://github.com/Atiam/Professional-README-Generator_Tiam-Arnaud/blob/main/assets/Screenshot%202024-05-03%20180136.png)](https://app.screencastify.com/v2/manage/videos/7gVGZhlorMPLgW0fT7Kj)
