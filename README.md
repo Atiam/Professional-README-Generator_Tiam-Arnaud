@@ -35,7 +35,7 @@
   Test
 
   ## Questions
-  For any correction, please find the source code on Atiam Github.
+  For any construbution, please find the source code on Atiam Github.
   For any questions, please reach out to me on arnaudtiam50@gmail.com email.
   
   ## Video
