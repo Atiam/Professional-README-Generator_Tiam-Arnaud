@@ -39,5 +39,5 @@
   For any questions, please reach out to me on fd email.
   
   ## Video
-  [![Watch the video](https://github.com/Atiam/Professional-README-Generator_Tiam-Arnaud/blob/main/assets/Screenshot%202024-05-03%20180136.png)](https://app.screencastify.com/v2/manage/videos/7gVGZhlorMPLgW0fT7Kj)
+  [![Watch the video](https://github.com/Atiam/Professional-README-Generator_Tiam-Arnaud/blob/main/assets/image_video.png)](https://drive.google.com/file/d/1Inf9kwaq2eWKfCtsvyfKS3LTacBCbwtc/view)
   
